@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSqLite", "CoreSqLite\CoreSqLite.csproj", "{F599E5CB-55CB-4664-B7C0-473208FA9717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F599E5CB-55CB-4664-B7C0-473208FA9717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F599E5CB-55CB-4664-B7C0-473208FA9717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F599E5CB-55CB-4664-B7C0-473208FA9717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F599E5CB-55CB-4664-B7C0-473208FA9717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC62E7EF-F54A-4017-A480-6954F1AF0F2D}
+	EndGlobalSection
+EndGlobal

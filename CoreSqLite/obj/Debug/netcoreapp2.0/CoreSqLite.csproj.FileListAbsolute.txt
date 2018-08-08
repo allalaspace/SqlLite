@@ -1,0 +1,17 @@
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\CoreSqLite.deps.json
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\CoreSqLite.runtimeconfig.json
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\CoreSqLite.runtimeconfig.dev.json
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\CoreSqLite.dll
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\CoreSqLite.pdb
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Dapper.dll
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\System.Data.SQLite.dll
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Dapper.pdb
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\Dapper.xml
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.0\System.Data.SQLite.xml
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.csprojResolveAssemblyReference.cache
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.csproj.CoreCompileInputs.cache
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.AssemblyInfoInputs.cache
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.AssemblyInfo.cs
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.csproj.CopyComplete
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.dll
+C:\Users\mboudich\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.0\CoreSqLite.pdb
